@@ -3,7 +3,7 @@ cffi==1.14.0
 coverage==5.1
 deprecation==2.0.7
 filetype==1.0.7
-gevent==20.4.0
+gevent==23.9.1
 greenlet==0.4.15
 packaging==20.3
 pycparser==2.20
